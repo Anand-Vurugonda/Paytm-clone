@@ -561,6 +561,7 @@
 	}
 	.load{
 		font-size: 5px;
+		margin-top: -2%;
 	}
 	.learn{
 		font-size: 5px;
@@ -605,7 +606,7 @@
 		font-size: 5px;
 	}
 	.image2{
-		margin-top: 30%;
+		margin-top: 25%;
 	}
 	.image3{
 		margin-top: 30%;
@@ -655,4 +656,37 @@
 	.demo{
 		font-size: 0px;
 	}
-}
+	.sec8{
+		padding-top: 2%;
+	}
+	.India{
+		margin-top: -5%;
+	}
+	.secure{
+		margin-top: -1%;
+	}
+	.financial{
+		margin-top: 10%;
+	}
+	.image1{
+		margin-top: 8%;
+	}
+	.sec9{
+		margin-top: -15%;
+	}
+	.sec10{
+		margin-top: 5%;
+	}
+	.unlimited{
+		margin-top: 8%;
+	}
+	.most{
+		margin-top: 8%;
+	}
+	.hdfc{
+		margin-top: 5%;
+	}
+	.sbi{
+		margin-top: 5%;
+	}
+} 
